@@ -142,7 +142,7 @@ top:152%;
 
         position:fixed;
         background:whitesmoke;
-        width: 52vh;
+        width: 50vh;
         left:4%;
         top:25%;
      
@@ -225,7 +225,7 @@ letter-spacing: 0.644px;
         border: 2px solid #CCC;
         background: #FFF;
         font-family: Roboto;
-        font-size: 20px; /* Set the font size for the entered text */
+        font-size: 17px; /* Set the font size for the entered text */
         font-weight: 400;
         letter-spacing: 0.805px;
      

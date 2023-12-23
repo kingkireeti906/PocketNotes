@@ -190,6 +190,11 @@
 
 /* Additional mobile-specific styles */
 @media (max-width: 767px) {
+  .pageContainer {
+    display: flex;
+    overflow: hidden; /* Prevents scrolling */
+   
+  }
   .pockets {
     color: #000;
     font-family: Roboto;

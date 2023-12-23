@@ -260,6 +260,7 @@ top:75%;
      #textarea::placeholder {
         padding-top: 10px; 
         padding-left: 2%; 
+        font-size: 17.706px;
         
       }
       #textarea::-webkit-resizer {
@@ -347,7 +348,7 @@ top:75%;
   letter-spacing: 0.272px;
   white-space: pre-wrap;
   position: relative;
-  left: 55%;
+  left: 45%;
 }
 /* Set the height of the scrollbar thumb in WebKit browsers */
 .middle::-webkit-scrollbar {

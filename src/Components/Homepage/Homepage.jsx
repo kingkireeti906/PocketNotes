@@ -92,7 +92,7 @@ function Homepage() {
                 position: 'relative',
                 margin: '20px',
                 top: '10%',
-                left: '12%',
+                left: '9%',
                 [Styles.adjustedLeft]: container.groupName.split(' ').length <= 2,
               }}
               onClick={() => handleContainerClick(index)}
